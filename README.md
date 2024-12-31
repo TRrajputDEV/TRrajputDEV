@@ -6,13 +6,11 @@
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 
-- 💬 Ask me about ** DSA, C, C++,Python , Flask**
+- 💬 Ask me about ** DSA,FRONT-END Developement**
 
 - ⚡ Fun fact **🕹️ Gamer at Heart: Enjoys playing Valorant in spare time.
-- 📚 Self-Improvement Buff: Loves deep conversations about human behavior, psychology, and space.
-- 🚀 Tech Explorer: Always eager to learn new technologies and improve coding skills.
-- 💡 Problem Solver: Passionate about tackling complex coding challenges and algorithms.
--  🧩 Puzzle Lover: Enjoys solving puzzles and brainteasers to keep the mind sharp.**
+- 📚 Self-Improvement Buff: Loves  human behavior, psychology, and space.
+.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
