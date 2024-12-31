@@ -2,7 +2,6 @@
 <h3 align="center"> "Enthusiastic B.Tech Student | Aspiring Software Developer | C++ & Python Enthusiast | DSA Explorer | Lifelong Learner"</h3>
 
 
-- 🔭 I’m currently working on **Desktop Assistent**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
