@@ -9,10 +9,8 @@
 
 🌟 **Who Am I?**
 
--  A coder on a mission to create build and innovate.
--  Constantly expanding my horizons in **Backend Systems**.
--  Avid believer in merging creativity with logic to solve challenges.
--  Striving for excellence and embracing growth every day.
+- Idk !!!
+- My Cat Writes my Code !!!
 ---
 
 📊 **GitHub Journey**
