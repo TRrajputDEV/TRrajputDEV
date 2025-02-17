@@ -12,7 +12,6 @@
 - 🎯 Currently mastering Data Structures & Algorithms (DSA)  
 - 🏆 **Hackathon Finalist** | **Open-Source Contributor**  
 - 📜 Building projects in **C++, Python, AI, and more...**  
-- 🚀 Aspiring to crack **MAANG** interviews  
 - 😼 My cat writes my code (sometimes...)  
 
 ---
