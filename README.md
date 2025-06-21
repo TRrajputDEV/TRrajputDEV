@@ -8,7 +8,7 @@
 ---
 
 ### 🌟 About Me
-- 💻 C++ Developer | DSA Enthusiast | Tech Explorer  
+- 💻 Web Developer 
 - 🎯 Currently mastering Data Structures & Algorithms (DSA)  
 - 🏆 **Hackathon Finalist** | **Open-Source Contributor**  
 - 📜 Building projects in **C++, Python, AI, and more...**  
@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-🔹 **Languages:** C++, Python, JavaScript  
+🔹 **Languages:** C++, Python, JavaScript, java, C  
 🔹 **Tools & Technologies:** Git, GitHub, Linux, Bash  
 🔹 **Frameworks & Libraries:** React.js, TailwindCSS  
 🔹 **CS Fundamentals:** OOP, DBMS, OS, CN  
