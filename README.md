@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=TRrajputDEV&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TRrajputDEV&theme=tokyonight&hide_border=false&mode=weekly" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🚀 My Projects  
