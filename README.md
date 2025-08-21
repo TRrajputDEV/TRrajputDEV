@@ -153,7 +153,7 @@ const tushar = {
 
 <div align="center">
 
-### 🔥 2024 Objectives
+### 🔥 2025 Objectives
 - 🎯 **Master System Design** - Building scalable architectures
 - 📚 **Advanced DSA** - Competitive programming focus  
 - ☁️ **Cloud Technologies** - AWS/Azure certification
